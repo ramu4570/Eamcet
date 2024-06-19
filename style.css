@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: bisque;
+}
+
+header {
+  text-align: center;
+  font-size: small;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 2em;
+  padding-right: 1.5em;
+  padding-left: 1.5em;
+}
+
+.inst h2 {
+  text-align: center;
+  margin-top: 0.7em;
+}
+.inst h4 {
+  text-align: center;
+  padding-left: 3em;
+  padding-right: 3em;
+  margin-top: 1em;
+}
+.inst img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.inst a {
+  text-decoration: none;
+  color: aliceblue;
+}
+.inst button {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 1em;
+  height: 3vh;
+  width: 30%;
+  color: aliceblue;
+  background-color: black;
+  border-radius: 25px;
+}
+
+/*# sourceMappingURL=style.css.map */
